@@ -1,1 +1,1 @@
-<web-view src="https://meta.kivisense.com/canada-lee-test-2023-08-03/test.html" bindmessage="message" bindload="load" binderror="error"></web-view>
+<web-view src="https://meta.kivisense.com/helper-tools/test-open-camera.html" bindmessage="message" bindload="load" binderror="error"></web-view>
